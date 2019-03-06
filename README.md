@@ -3,6 +3,19 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 <!-- lists-start -->
 
+## Definitions
+* **NIST**: A set of processes that ensures that data assets are formally managed throughout the enterprise. A data governance model establishes authority and management and decision making parameters related to the data produced or managed by the enterprise
+
+* **The Data Governance Institute**: A system of decision rights and accountabilities for information-related processes, executed according to agreed-upon models which describe who can take what actions with what information, and when, under what circumstances, using what methods.
+
+* **The MDM Institute**: The formal orchestration of people, processes, and technology to enable an organization to leverage data as an enterprise asset.
+
+* **Forrester**: The process by which an organization formalizes the fiduciary duty for the management of data assets critical to its success.
+
+* **Oracle**: The specification of decision rights and an accountability framework to encourage desirable behavior in the valuation, creation, storage, use, archival and deletion of data and information. It includes the processes, roles, standards and metrics that ensure the effective and efficient use of data and information in enabling an organization to achieve its goals.
+
+
+
 
 ## Models and standards:
 
