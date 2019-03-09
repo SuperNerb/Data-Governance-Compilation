@@ -31,12 +31,19 @@ This is a compilation of Data Governance resources, examples, models and communi
 * The State of California
   * [California GovOps](https://handbook.data.ca.gov/governance/) - Run by CalData with members from every contributing member to the [California Open Data Platform](https://data.ca.gov/)
 
+ * [California Health and Human Services](https://chhsdata.github.io/opendatahandbook/governance/)
+ 
+ *
+
 * [Open Data Cube](https://github.com/opendatacube/governance) – This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
+## Charters
+* [CalData Charter](https://docs.google.com/document/d/1j0GGF0CwFjlkWtUwBB39CPET_wC1wNJZ40lhGIGnFsY/edit)
 
 
 ## Communities
 
+* [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
 * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
 
 ## Additional Lists
