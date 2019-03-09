@@ -36,3 +36,6 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 ## Additional Lists
 * [Open Source Governance Models](https://github.com/cornelius/open-source-governance) – The goal of this repo is to provide an overview about how open source projects shape their governance, collect links to the relevant policy documents and other relevant information, and store that in a machine-readable form so it can easily be processed for further analysis.
+
+
+## Government Efforts
