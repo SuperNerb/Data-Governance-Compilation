@@ -28,10 +28,12 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 ## Living Models (*actual* Governance Bodies in the real world)
 
+* The State of California
+  * [California GovOps](https://handbook.data.ca.gov/governance/) - Run by CalData with members from every contributing member to the [California Open Data Platform](https://data.ca.gov/)
+
 * [Open Data Cube](https://github.com/opendatacube/governance) – This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
 
-** dsadas
 
 ## Communities
 
