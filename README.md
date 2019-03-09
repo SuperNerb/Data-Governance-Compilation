@@ -33,13 +33,12 @@ This is a compilation of Data Governance resources, examples, models and communi
 
  * [California Health and Human Services](https://chhsdata.github.io/opendatahandbook/governance/)
  
- *
+* [City of San Francisco DataSF](https://docs.google.com/document/d/1Rv5uEFlhAikted1CItjsmtbZhTPthTl0YcEDkNScdgI/edit#heading=h.isz0wa5dc802)
 
 * [Open Data Cube](https://github.com/opendatacube/governance) – This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
 ## Charters
 * [CalData Charter](https://docs.google.com/document/d/1j0GGF0CwFjlkWtUwBB39CPET_wC1wNJZ40lhGIGnFsY/edit)
-
 
 ## Communities
 
