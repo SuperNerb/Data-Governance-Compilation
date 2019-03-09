@@ -30,6 +30,9 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 * [Open Data Cube](https://github.com/opendatacube/governance) – This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
+
+** dsadas
+
 ## Communities
 
 * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
