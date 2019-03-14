@@ -16,7 +16,6 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 
 
-
 ## Models and standards:
 
 * [ODPI Data Governance](https://github.com/odpi/data-governance) – The ODPi Data Governance Project provides best practices and support to individuals and organizations that wish to improve and mature their data governance skills and programs.
@@ -45,10 +44,13 @@ This is a compilation of Data Governance resources, examples, models and communi
 ## Communities
 
 * [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
+
 * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
 
 ## Additional Lists
 * [Open Source Governance Models](https://github.com/cornelius/open-source-governance) – The goal of this repo is to provide an overview about how open source projects shape their governance, collect links to the relevant policy documents and other relevant information, and store that in a machine-readable form so it can easily be processed for further analysis.
+
+* [Open Source Governance Models](http://labs.centerforgov.org/data-governance/board/) – GovEx labs collection of topics that governance boards should consider supporting, executing, and/or developing policy around.
 
 
 ## Government Efforts
