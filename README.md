@@ -53,4 +53,7 @@ This is a compilation of Data Governance resources, examples, models and communi
 * [Open Source Governance Models](http://labs.centerforgov.org/data-governance/board/) – GovEx labs collection of topics that governance boards should consider supporting, executing, and/or developing policy around.
 
 
-## Government Efforts
+## Related
+
+* [Data Federation Project](https://github.com/18F/data-federation-project) - A project focused on tools and best practices to supported federated data collection efforts
+
