@@ -38,8 +38,9 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 * [Open Data Cube](https://github.com/opendatacube/governance) – This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
-## Charters
-* [CalData Charter](https://docs.google.com/document/d/1j0GGF0CwFjlkWtUwBB39CPET_wC1wNJZ40lhGIGnFsY/edit)
+## [Charters and Policy Handbooks](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/Policy%20Handbooks/City%20Examples)
+
+* [CalData Charter]
 
 ## Communities
 
@@ -53,4 +54,7 @@ This is a compilation of Data Governance resources, examples, models and communi
 * [Open Source Governance Models](http://labs.centerforgov.org/data-governance/board/) – GovEx labs collection of topics that governance boards should consider supporting, executing, and/or developing policy around.
 
 
-## Government Efforts
+## Related
+
+* [Data Federation Project](https://github.com/18F/data-federation-project) - A project focused on tools and best practices to supported federated data collection efforts
+
