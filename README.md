@@ -49,12 +49,11 @@ This is a compilation of Data Governance resources, examples, models and communi
 ## Communities
 
 * Government-only
+  * [Max.gov](https://community.max.gov) E-Government and CIO council Community (federal only)
 
- * [Max.gov](https://community.max.gov) E-Government and CIO council Community (federal only)
+  * [Data Cabinet Listserve](https://digital.gov/communities/data-cabinet/)
 
- * [Data Cabinet Listserve](https://digital.gov/communities/data-cabinet/)
-
- * [OpenGov Community of Practice](https://digital.gov/communities/open-government/) 
+  * [OpenGov Community of Practice](https://digital.gov/communities/open-government/) 
 
 * Others
  * [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
