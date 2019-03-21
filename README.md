@@ -17,7 +17,13 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 * **Oracle**: The specification of decision rights and an accountability framework to encourage desirable behavior in the valuation, creation, storage, use, archival and deletion of data and information. It includes the processes, roles, standards and metrics that ensure the effective and efficient use of data and information in enabling an organization to achieve its goals.
 
+## Templates
 
+* The [library](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/Templates) has pre-built Agendas, timelines, project plans and more!  Why recreate the wheel?
+
+## Governance Handbooks and Organizational Policies
+
+* A compilation of different [handbooks and policies](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/Governance%20Handbook%20Examples) from different types of organizations from around the country.  Great for inspiration!
 
 ## Maturity Models and self-assessments
 
