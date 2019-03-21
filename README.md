@@ -56,7 +56,7 @@ This is a compilation of Data Governance resources, examples, models and communi
   * [OpenGov Community of Practice](https://digital.gov/communities/open-government/) 
 
 * Others
- * [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
+  * [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
 
   * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
 
