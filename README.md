@@ -58,7 +58,7 @@ This is a compilation of Data Governance resources, examples, models and communi
 * Others
  * [CalData Slack Channel](https://caldata.slack.com/join/shared_invite/enQtMzQzMjE2MjgzNDA4LWNlYzVhNjQxMWYxMGVmZWFjODI4YzFhOGJhOTEyMjNiMjFiOWEzYTgyMmQxZGRjMzg4NjBjYTViNWYzNzc2ODc)
 
- * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
+  * [Reddit r/DataGovernance](https://www.reddit.com/r/datagovernance/)
 
 ## Additional Lists
 
