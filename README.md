@@ -42,10 +42,10 @@ This is a compilation of Data Governance resources, examples, models and communi
 * The State of California
   * [California GovOps](https://handbook.data.ca.gov/governance/) - Run by CalData with members from every contributing member to the [California Open Data Platform](https://data.ca.gov/)
 
- * [California Health and Human Services](https://chhsdata.github.io/opendatahandbook/governance/)
+  * [California Health and Human Services](https://chhsdata.github.io/opendatahandbook/governance/)
  
- * [California Data Collaborative](http://californiadatacollaborative.org/steering-committee/) - Project-focused non-profit run via membership fees from paying water utilities and water agencies across California.
- 
+  * [California Data Collaborative](http://californiadatacollaborative.org/steering-committee/) - Project-focused non-profit run via membership fees from paying water utilities and water agencies across California.
+
 * [City of San Francisco DataSF](https://docs.google.com/document/d/1Rv5uEFlhAikted1CItjsmtbZhTPthTl0YcEDkNScdgI/edit#heading=h.isz0wa5dc802)
 
 
