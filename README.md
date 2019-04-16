@@ -1,5 +1,29 @@
 # Data-Governance-Compilation
-This is a compilation of Data Governance resources, examples, models and communities. Please visit the [Library](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library) for the full toolkit.   Contributions welcome!
+
+Federal, State and Local governments across the United States are all now beginning or in the midst of major reforms and transformations to the way that they approach the data they manage. Modernization projects can be seen popping up across nearly every governing body in the United States and an incredible body of knowledge, learned expertise, and tools have emerged from those who were the early adopters of these reforms.  There are now many models, resources, and communities of practice that agencies can and should rely upon when building out their governance bodies. There is no need to re-create the wheel.  We should eagerly stand on the shoulders of those who have gone before us. To that end, the federal data strategy has begun compiling and pulling together a library of resources for practitioners to take from.  
+
+
+This toolkit includes:
+
+* Model charter language
+
+* Pre-built Data Governance templates of agendas, customizable project timelines, project plans, and more.
+
+* Actual data governance handbooks and policies implemented by other organizations
+
+* A library of maturity models that can be used to conduct self-assessments  for your organization
+
+* A compilation of research, whitepapers, and reports on data governance topics
+
+* A list of known communities of practice (listserves, slack channels, max.gov communities) where you can connect with other practitioners directly
+
+
+
+
+
+
+
+Please visit the [Library](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library) for the full toolkit.   Contributions welcome!
 
 <!-- lists-start -->
 
