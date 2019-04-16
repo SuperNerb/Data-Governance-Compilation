@@ -31,7 +31,7 @@ This is a compilation of Data Governance resources, examples, models and communi
 
 ## Education and Research
 
-* See the [White Papers, Reports, Research, Strategy Documents](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/White%20Papers%2C%20Reports%2C%20Research%2C%20Strategy%20Documents) folder in the Library
+* See the [White Papers, Reports, Research, Strategy Documents](https://github.com/SuperNerb/Data-Governance-Compilation/tree/master/Library/White%20Papers%2C%20Reports%2C%20Research%2C%20Strategy%20Documents%2C%20and%20guides) folder in the Library
 
 * [ODPI Data Governance](https://github.com/odpi/data-governance) – The ODPi Data Governance Project provides best practices and support to individuals and organizations that wish to improve and mature their data governance skills and programs.
 
